@@ -1,7 +1,7 @@
 # Briefing
 This is a [Python notebook](https://github.com/CopernicusMarineInsitu/downloadFilesFromCSV/blob/master/downloadFilesFromCSV.ipynb) that illustrates how to download files from a CSV containing the ftp links/paths to the desired In Situ files. This CSV file can be generated manually trough the Dashboard (see below GIF) or by processing the index files available in a given In Situ product/dataset.
 
-![](dashboardExport.gif)
+<img src="dashboardExport.gif">
 
 ## Packages
 ```python
