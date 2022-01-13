@@ -1,0 +1,9 @@
+name: download-from-csv-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - ftputil
+    - pandas
